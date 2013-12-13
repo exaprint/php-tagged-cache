@@ -1,0 +1,17 @@
+{
+    "name": "rbm/tagged-cache",
+    "description": "Tagged Cache Manager",
+    "authors": [
+        {
+            "name": "Romain Bessuges",
+            "email": "romainbessuges@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "RBM": "library/."
+        }
+    }
+}
